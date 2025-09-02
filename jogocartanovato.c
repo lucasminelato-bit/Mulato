@@ -46,6 +46,7 @@ int main() {
     scanf("%d", &pontosTuristicos1);
 
     // Leitura dos dados da carta 2
+    
     printf("\nCadastro da Carta 2:\n");
 
     printf("Digite o estado (A-H): ");
